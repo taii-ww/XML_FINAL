@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSachCauHoi>
+  <CauHoi>
+    <MaCauHoi>CH001</MaCauHoi>
+    <NoiDung>Thẻ nào dùng để tạo liên kết trong HTML?</NoiDung>
+    <DapAnA>&lt;a&gt;</DapAnA>
+    <DapAnB>&lt;link&gt;</DapAnB>
+    <DapAnC>&lt;href&gt;</DapAnC>
+    <DapAnD>&lt;url&gt;</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH002</MaCauHoi>
+    <NoiDung>CSS viết tắt của từ gì?</NoiDung>
+    <DapAnA>Creative Style System</DapAnA>
+    <DapAnB>Computer Style Sheets</DapAnB>
+    <DapAnC>Cascading Style Sheets</DapAnC>
+    <DapAnD>Colorful Style Sheets</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH003</MaCauHoi>
+    <NoiDung>Thẻ nào dùng để chèn hình ảnh vào trang HTML?</NoiDung>
+    <DapAnA>&lt;img&gt;</DapAnA>
+    <DapAnB>&lt;image&gt;</DapAnB>
+    <DapAnC>&lt;pic&gt;</DapAnC>
+    <DapAnD>&lt;src&gt;</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH004</MaCauHoi>
+    <NoiDung>Thẻ tiêu đề nào có cỡ chữ mặc định lớn nhất?</NoiDung>
+    <DapAnA>&lt;h6&gt;</DapAnA>
+    <DapAnB>&lt;h1&gt;</DapAnB>
+    <DapAnC>&lt;head&gt;</DapAnC>
+    <DapAnD>&lt;title&gt;</DapAnD>
+    <DapAnDung>B</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH005</MaCauHoi>
+    <NoiDung>Ngôn ngữ nào thường chạy trực tiếp trong trình duyệt web để tạo tương tác?</NoiDung>
+    <DapAnA>SQL</DapAnA>
+    <DapAnB>C#</DapAnB>
+    <DapAnC>PHP</DapAnC>
+    <DapAnD>JavaScript</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH006</MaCauHoi>
+    <NoiDung>Thuộc tính CSS nào dùng để đổi màu chữ?</NoiDung>
+    <DapAnA>background-color</DapAnA>
+    <DapAnB>font-style</DapAnB>
+    <DapAnC>text-align</DapAnC>
+    <DapAnD>color</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH007</MaCauHoi>
+    <NoiDung>Phương thức HTTP nào thường dùng để gửi dữ liệu biểu mẫu mà không hiển thị trên URL?</NoiDung>
+    <DapAnA>GET</DapAnA>
+    <DapAnB>HEAD</DapAnB>
+    <DapAnC>OPTIONS</DapAnC>
+    <DapAnD>POST</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH008</MaCauHoi>
+    <NoiDung>Trong JavaScript, từ khóa nào khai báo biến có phạm vi khối (block scope)?</NoiDung>
+    <DapAnA>var</DapAnA>
+    <DapAnB>let</DapAnB>
+    <DapAnC>int</DapAnC>
+    <DapAnD>static</DapAnD>
+    <DapAnDung>B</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH009</MaCauHoi>
+    <NoiDung>Trong mô hình hộp CSS (box model), thứ tự các lớp từ trong ra ngoài là gì?</NoiDung>
+    <DapAnA>content, padding, border, margin</DapAnA>
+    <DapAnB>margin, border, padding, content</DapAnB>
+    <DapAnC>content, border, padding, margin</DapAnC>
+    <DapAnD>padding, content, margin, border</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH010</MaCauHoi>
+    <NoiDung>Kết quả của biểu thức typeof null trong JavaScript là gì?</NoiDung>
+    <DapAnA>object</DapAnA>
+    <DapAnB>null</DapAnB>
+    <DapAnC>undefined</DapAnC>
+    <DapAnD>number</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH001</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH011</MaCauHoi>
+    <NoiDung>Đâu là kiểu dữ liệu nguyên thủy trong C#?</NoiDung>
+    <DapAnA>int</DapAnA>
+    <DapAnB>string</DapAnB>
+    <DapAnC>object</DapAnC>
+    <DapAnD>class</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH012</MaCauHoi>
+    <NoiDung>Từ khóa nào dùng để khai báo một lớp trong C#?</NoiDung>
+    <DapAnA>define</DapAnA>
+    <DapAnB>function</DapAnB>
+    <DapAnC>class</DapAnC>
+    <DapAnD>object</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH013</MaCauHoi>
+    <NoiDung>Phương thức nào là điểm bắt đầu thực thi của chương trình C#?</NoiDung>
+    <DapAnA>Main</DapAnA>
+    <DapAnB>Start</DapAnB>
+    <DapAnC>Run</DapAnC>
+    <DapAnD>Init</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH014</MaCauHoi>
+    <NoiDung>Kiểu dữ liệu nào dùng để lưu giá trị đúng/sai trong C#?</NoiDung>
+    <DapAnA>int</DapAnA>
+    <DapAnB>char</DapAnB>
+    <DapAnC>string</DapAnC>
+    <DapAnD>bool</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH015</MaCauHoi>
+    <NoiDung>Vòng lặp nào luôn thực hiện thân vòng lặp ít nhất một lần?</NoiDung>
+    <DapAnA>do...while</DapAnA>
+    <DapAnB>while</DapAnB>
+    <DapAnC>for</DapAnC>
+    <DapAnD>foreach</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH016</MaCauHoi>
+    <NoiDung>Từ khóa nào dùng để ngăn một lớp bị kế thừa?</NoiDung>
+    <DapAnA>abstract</DapAnA>
+    <DapAnB>virtual</DapAnB>
+    <DapAnC>override</DapAnC>
+    <DapAnD>sealed</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH017</MaCauHoi>
+    <NoiDung>Cấu trúc nào dùng để bắt và xử lý ngoại lệ trong C#?</NoiDung>
+    <DapAnA>if...else</DapAnA>
+    <DapAnB>switch...case</DapAnB>
+    <DapAnC>try...catch</DapAnC>
+    <DapAnD>do...while</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH018</MaCauHoi>
+    <NoiDung>LINQ trong C# được dùng để làm gì?</NoiDung>
+    <DapAnA>Thiết kế giao diện WinForms</DapAnA>
+    <DapAnB>Truy vấn dữ liệu từ các nguồn như List, XML, cơ sở dữ liệu</DapAnB>
+    <DapAnC>Kết nối và gửi dữ liệu qua mạng</DapAnC>
+    <DapAnD>Biên dịch mã nguồn thành tệp thực thi</DapAnD>
+    <DapAnDung>B</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH019</MaCauHoi>
+    <NoiDung>Đặc điểm nào đúng với tham số khai báo bằng từ khóa out?</NoiDung>
+    <DapAnA>Bắt buộc phải khởi tạo trước khi truyền vào</DapAnA>
+    <DapAnB>Chỉ dùng để truyền giá trị, không thể thay đổi</DapAnB>
+    <DapAnC>Phương thức không cần gán giá trị cho nó</DapAnC>
+    <DapAnD>Không cần khởi tạo trước khi truyền, nhưng phương thức phải gán giá trị cho nó</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH020</MaCauHoi>
+    <NoiDung>Cặp từ khóa nào dùng để viết mã bất đồng bộ trong C#?</NoiDung>
+    <DapAnA>yield và return</DapAnA>
+    <DapAnB>lock và unlock</DapAnB>
+    <DapAnC>async và await</DapAnC>
+    <DapAnD>try và finally</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH002</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH021</MaCauHoi>
+    <NoiDung>SQL là viết tắt của cụm từ nào?</NoiDung>
+    <DapAnA>Simple Query Language</DapAnA>
+    <DapAnB>Standard Question Language</DapAnB>
+    <DapAnC>Structured Query Language</DapAnC>
+    <DapAnD>Sequential Query Logic</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH022</MaCauHoi>
+    <NoiDung>Lệnh nào dùng để truy vấn dữ liệu từ bảng?</NoiDung>
+    <DapAnA>INSERT</DapAnA>
+    <DapAnB>UPDATE</DapAnB>
+    <DapAnC>SELECT</DapAnC>
+    <DapAnD>CREATE</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH023</MaCauHoi>
+    <NoiDung>Khóa chính (Primary Key) dùng để làm gì?</NoiDung>
+    <DapAnA>Sắp xếp dữ liệu theo thứ tự tăng dần</DapAnA>
+    <DapAnB>Liên kết bảng với một tệp bên ngoài</DapAnB>
+    <DapAnC>Mã hóa dữ liệu của bảng</DapAnC>
+    <DapAnD>Xác định duy nhất mỗi bản ghi trong bảng</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH024</MaCauHoi>
+    <NoiDung>Lệnh nào dùng để xóa bản ghi khỏi bảng?</NoiDung>
+    <DapAnA>DELETE</DapAnA>
+    <DapAnB>REMOVE</DapAnB>
+    <DapAnC>DROP COLUMN</DapAnC>
+    <DapAnD>CLEAR</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH025</MaCauHoi>
+    <NoiDung>Mệnh đề nào dùng để lọc bản ghi theo điều kiện?</NoiDung>
+    <DapAnA>ORDER BY</DapAnA>
+    <DapAnB>GROUP BY</DapAnB>
+    <DapAnC>WHERE</DapAnC>
+    <DapAnD>FROM</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH026</MaCauHoi>
+    <NoiDung>Phép nối nào trả về tất cả bản ghi của bảng bên trái, kể cả khi không có bản ghi khớp ở bảng bên phải?</NoiDung>
+    <DapAnA>LEFT JOIN</DapAnA>
+    <DapAnB>INNER JOIN</DapAnB>
+    <DapAnC>RIGHT JOIN</DapAnC>
+    <DapAnD>CROSS JOIN</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH027</MaCauHoi>
+    <NoiDung>Hàm tổng hợp nào dùng để đếm số dòng?</NoiDung>
+    <DapAnA>SUM</DapAnA>
+    <DapAnB>AVG</DapAnB>
+    <DapAnC>COUNT</DapAnC>
+    <DapAnD>MAX</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH028</MaCauHoi>
+    <NoiDung>Mệnh đề nào dùng để lọc kết quả sau khi đã nhóm bằng GROUP BY?</NoiDung>
+    <DapAnA>WHERE</DapAnA>
+    <DapAnB>ORDER BY</DapAnB>
+    <DapAnC>HAVING</DapAnC>
+    <DapAnD>DISTINCT</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH029</MaCauHoi>
+    <NoiDung>Một bảng đạt dạng chuẩn 3 (3NF) khi nào?</NoiDung>
+    <DapAnA>Chỉ cần có khóa chính</DapAnA>
+    <DapAnB>Mọi thuộc tính đều là khóa ngoại</DapAnB>
+    <DapAnC>Không có bản ghi nào trùng nhau</DapAnC>
+    <DapAnD>Đạt dạng chuẩn 2 và không có phụ thuộc bắc cầu của thuộc tính không khóa vào khóa chính</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH030</MaCauHoi>
+    <NoiDung>Trong tính chất ACID của giao dịch, chữ I (Isolation) có nghĩa là gì?</NoiDung>
+    <DapAnA>Dữ liệu luôn được lập chỉ mục</DapAnA>
+    <DapAnB>Các giao dịch chạy đồng thời không làm ảnh hưởng lẫn nhau</DapAnB>
+    <DapAnC>Giao dịch hoặc hoàn thành toàn bộ hoặc không làm gì</DapAnC>
+    <DapAnD>Dữ liệu được lưu bền vững sau khi hoàn tất</DapAnD>
+    <DapAnDung>B</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH003</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH031</MaCauHoi>
+    <NoiDung>Giao thức nào dùng để truyền tải trang web?</NoiDung>
+    <DapAnA>FTP</DapAnA>
+    <DapAnB>SMTP</DapAnB>
+    <DapAnC>HTTP</DapAnC>
+    <DapAnD>SSH</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH032</MaCauHoi>
+    <NoiDung>Địa chỉ IPv4 gồm bao nhiêu bit?</NoiDung>
+    <DapAnA>32</DapAnA>
+    <DapAnB>16</DapAnB>
+    <DapAnC>64</DapAnC>
+    <DapAnD>128</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH033</MaCauHoi>
+    <NoiDung>Thiết bị nào kết nối các mạng khác nhau và định tuyến gói tin?</NoiDung>
+    <DapAnA>Hub</DapAnA>
+    <DapAnB>Repeater</DapAnB>
+    <DapAnC>Router</DapAnC>
+    <DapAnD>Switch lớp 2</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH034</MaCauHoi>
+    <NoiDung>DNS dùng để làm gì?</NoiDung>
+    <DapAnA>Cấp phát địa chỉ IP tự động</DapAnA>
+    <DapAnB>Mã hóa dữ liệu truyền đi</DapAnB>
+    <DapAnC>Phân giải tên miền thành địa chỉ IP</DapAnC>
+    <DapAnD>Chống virus cho máy tính</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH035</MaCauHoi>
+    <NoiDung>Cổng mặc định của giao thức HTTP là bao nhiêu?</NoiDung>
+    <DapAnA>21</DapAnA>
+    <DapAnB>25</DapAnB>
+    <DapAnC>443</DapAnC>
+    <DapAnD>80</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH036</MaCauHoi>
+    <NoiDung>Mô hình tham chiếu OSI có bao nhiêu tầng?</NoiDung>
+    <DapAnA>4</DapAnA>
+    <DapAnB>5</DapAnB>
+    <DapAnC>6</DapAnC>
+    <DapAnD>7</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH037</MaCauHoi>
+    <NoiDung>Giao thức nào ở tầng giao vận đảm bảo truyền dữ liệu tin cậy, hướng kết nối?</NoiDung>
+    <DapAnA>TCP</DapAnA>
+    <DapAnB>UDP</DapAnB>
+    <DapAnC>ICMP</DapAnC>
+    <DapAnD>ARP</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH038</MaCauHoi>
+    <NoiDung>Địa chỉ IP nào sau đây là địa chỉ riêng (private)?</NoiDung>
+    <DapAnA>8.8.8.8</DapAnA>
+    <DapAnB>1.1.1.1</DapAnB>
+    <DapAnC>142.250.4.1</DapAnC>
+    <DapAnD>192.168.1.10</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH039</MaCauHoi>
+    <NoiDung>Một mạng có mặt nạ /26 có tối đa bao nhiêu địa chỉ host khả dụng?</NoiDung>
+    <DapAnA>64</DapAnA>
+    <DapAnB>30</DapAnB>
+    <DapAnC>126</DapAnC>
+    <DapAnD>62</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH040</MaCauHoi>
+    <NoiDung>Quá trình bắt tay ba bước của TCP diễn ra theo thứ tự nào?</NoiDung>
+    <DapAnA>SYN, SYN-ACK, ACK</DapAnA>
+    <DapAnB>SYN, ACK, SYN-ACK</DapAnB>
+    <DapAnC>ACK, SYN, SYN-ACK</DapAnC>
+    <DapAnD>SYN-ACK, SYN, ACK</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH004</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH041</MaCauHoi>
+    <NoiDung>Hệ điều hành là gì?</NoiDung>
+    <DapAnA>Phần mềm soạn thảo văn bản</DapAnA>
+    <DapAnB>Trình duyệt dùng để truy cập Internet</DapAnB>
+    <DapAnC>Một loại phần cứng điều khiển CPU</DapAnC>
+    <DapAnD>Phần mềm quản lý tài nguyên phần cứng và cung cấp môi trường chạy cho ứng dụng</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH042</MaCauHoi>
+    <NoiDung>Phần mềm nào sau đây là hệ điều hành?</NoiDung>
+    <DapAnA>Photoshop</DapAnA>
+    <DapAnB>Chrome</DapAnB>
+    <DapAnC>Oracle Database</DapAnC>
+    <DapAnD>Linux</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH043</MaCauHoi>
+    <NoiDung>Tiến trình (process) là gì?</NoiDung>
+    <DapAnA>Một tệp chương trình lưu trên ổ đĩa</DapAnA>
+    <DapAnB>Một vùng nhớ của ổ cứng</DapAnB>
+    <DapAnC>Một lệnh duy nhất của CPU</DapAnC>
+    <DapAnD>Một chương trình đang được thực thi</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH044</MaCauHoi>
+    <NoiDung>Thành phần nào sau đây có tốc độ truy cập nhanh nhất?</NoiDung>
+    <DapAnA>RAM</DapAnA>
+    <DapAnB>Ổ cứng SSD</DapAnB>
+    <DapAnC>Thanh ghi (register) của CPU</DapAnC>
+    <DapAnD>Ổ USB</DapAnD>
+    <DapAnDung>C</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH045</MaCauHoi>
+    <NoiDung>Lệnh nào dùng để liệt kê các tệp trong thư mục trên Linux?</NoiDung>
+    <DapAnA>cd</DapAnA>
+    <DapAnB>rm</DapAnB>
+    <DapAnC>mkdir</DapAnC>
+    <DapAnD>ls</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>1</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH046</MaCauHoi>
+    <NoiDung>Thuật toán lập lịch FCFS có nghĩa là gì?</NoiDung>
+    <DapAnA>Tiến trình ngắn nhất được chạy trước</DapAnA>
+    <DapAnB>Tiến trình có độ ưu tiên cao nhất chạy trước</DapAnB>
+    <DapAnC>Các tiến trình luân phiên theo lượng tử thời gian</DapAnC>
+    <DapAnD>Tiến trình đến trước được phục vụ trước</DapAnD>
+    <DapAnDung>D</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH047</MaCauHoi>
+    <NoiDung>Deadlock (bế tắc) xảy ra khi nào?</NoiDung>
+    <DapAnA>Các tiến trình chờ tài nguyên của nhau và không tiến trình nào tiếp tục được</DapAnA>
+    <DapAnB>CPU hoạt động quá tải nhiệt</DapAnB>
+    <DapAnC>RAM bị đầy hoàn toàn</DapAnC>
+    <DapAnD>Một tiến trình kết thúc bình thường</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH048</MaCauHoi>
+    <NoiDung>Bộ nhớ ảo (virtual memory) cho phép điều gì?</NoiDung>
+    <DapAnA>Tăng tốc độ xung nhịp của CPU</DapAnA>
+    <DapAnB>Chạy chương trình lớn hơn dung lượng RAM vật lý nhờ dùng ổ đĩa mở rộng</DapAnB>
+    <DapAnC>Tự động sao lưu dữ liệu</DapAnC>
+    <DapAnD>Nén dữ liệu trong RAM</DapAnD>
+    <DapAnDung>B</DapAnDung>
+    <DoKho>2</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH049</MaCauHoi>
+    <NoiDung>Điều kiện nào sau đây KHÔNG phải là điều kiện cần để xảy ra deadlock?</NoiDung>
+    <DapAnA>Loại trừ tương hỗ (mutual exclusion)</DapAnA>
+    <DapAnB>Tài nguyên có thể bị thu hồi cưỡng bức (preemption)</DapAnB>
+    <DapAnC>Giữ và chờ (hold and wait)</DapAnC>
+    <DapAnD>Chờ vòng tròn (circular wait)</DapAnD>
+    <DapAnDung>B</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+  <CauHoi>
+    <MaCauHoi>CH050</MaCauHoi>
+    <NoiDung>Hiện tượng thrashing trong quản lý bộ nhớ là gì?</NoiDung>
+    <DapAnA>Hệ thống dành phần lớn thời gian hoán đổi trang thay vì thực thi tiến trình</DapAnA>
+    <DapAnB>CPU bị quá nhiệt</DapAnB>
+    <DapAnC>Ổ cứng bị đầy</DapAnC>
+    <DapAnD>Tiến trình bị kết thúc đột ngột</DapAnD>
+    <DapAnDung>A</DapAnDung>
+    <DoKho>3</DoKho>
+    <MaMonHoc>MH005</MaMonHoc>
+  </CauHoi>
+</DanhSachCauHoi>

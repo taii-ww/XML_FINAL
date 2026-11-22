@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSachDeThi>
+  <DeThi>
+    <MaDeThi>DT001</MaDeThi>
+    <TenDeThi>Đề thi giữa kỳ Lập trình Web</TenDeThi>
+    <MaMonHoc>MH001</MaMonHoc>
+    <NguoiTao>gv01</NguoiTao>
+    <ThoiGianLamBai>45</ThoiGianLamBai>
+    <NgayTao>2026-11-10</NgayTao>
+    <CacCauHoi>
+      <MaCauHoi>CH001</MaCauHoi>
+      <MaCauHoi>CH002</MaCauHoi>
+      <MaCauHoi>CH003</MaCauHoi>
+      <MaCauHoi>CH004</MaCauHoi>
+      <MaCauHoi>CH005</MaCauHoi>
+      <MaCauHoi>CH006</MaCauHoi>
+      <MaCauHoi>CH007</MaCauHoi>
+      <MaCauHoi>CH008</MaCauHoi>
+      <MaCauHoi>CH009</MaCauHoi>
+      <MaCauHoi>CH010</MaCauHoi>
+    </CacCauHoi>
+  </DeThi>
+  <DeThi>
+    <MaDeThi>DT002</MaDeThi>
+    <TenDeThi>Đề thi cuối kỳ Lập trình C#</TenDeThi>
+    <MaMonHoc>MH002</MaMonHoc>
+    <NguoiTao>gv02</NguoiTao>
+    <ThoiGianLamBai>60</ThoiGianLamBai>
+    <NgayTao>2026-11-12</NgayTao>
+    <CacCauHoi>
+      <MaCauHoi>CH011</MaCauHoi>
+      <MaCauHoi>CH012</MaCauHoi>
+      <MaCauHoi>CH013</MaCauHoi>
+      <MaCauHoi>CH016</MaCauHoi>
+      <MaCauHoi>CH017</MaCauHoi>
+      <MaCauHoi>CH019</MaCauHoi>
+    </CacCauHoi>
+  </DeThi>
+  <DeThi>
+    <MaDeThi>DT003</MaDeThi>
+    <TenDeThi>Đề kiểm tra Cơ sở dữ liệu</TenDeThi>
+    <MaMonHoc>MH003</MaMonHoc>
+    <NguoiTao>admin</NguoiTao>
+    <ThoiGianLamBai>45</ThoiGianLamBai>
+    <NgayTao>2026-11-15</NgayTao>
+    <CacCauHoi>
+      <MaCauHoi>CH021</MaCauHoi>
+      <MaCauHoi>CH022</MaCauHoi>
+      <MaCauHoi>CH026</MaCauHoi>
+      <MaCauHoi>CH027</MaCauHoi>
+      <MaCauHoi>CH029</MaCauHoi>
+      <MaCauHoi>CH030</MaCauHoi>
+    </CacCauHoi>
+  </DeThi>
+</DanhSachDeThi>

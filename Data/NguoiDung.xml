@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSachNguoiDung>
+  <NguoiDung>
+    <TenDangNhap>admin</TenDangNhap>
+    <MatKhau>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</MatKhau>
+    <HoTen>Quản trị viên</HoTen>
+    <Quyen>Admin</Quyen>
+  </NguoiDung>
+  <NguoiDung>
+    <TenDangNhap>gv01</TenDangNhap>
+    <MatKhau>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</MatKhau>
+    <HoTen>Giáo viên 01</HoTen>
+    <Quyen>GiaoVien</Quyen>
+  </NguoiDung>
+  <NguoiDung>
+    <TenDangNhap>gv02</TenDangNhap>
+    <MatKhau>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</MatKhau>
+    <HoTen>Giáo viên 02</HoTen>
+    <Quyen>GiaoVien</Quyen>
+  </NguoiDung>
+  <NguoiDung>
+    <TenDangNhap>gv03</TenDangNhap>
+    <MatKhau>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</MatKhau>
+    <HoTen>Giáo viên 03</HoTen>
+    <Quyen>GiaoVien</Quyen>
+  </NguoiDung>
+</DanhSachNguoiDung>

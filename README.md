@@ -25,6 +25,10 @@ Docs/           tài liệu, sơ đồ, wireframe, test case
 | :--- | :--- | :--- |
 | admin | 123 | Admin |
 | gv01 | 123 | Giáo viên |
+| gv02 | 123 | Giáo viên |
+| gv03 | 123 | Giáo viên |
+
+Mật khẩu trong `Data/NguoiDung.xml` được lưu dạng SHA-256 (hex thường, 64 ký tự).
 
 ## Tài liệu
 - [ProjectBackground.md](Docs/ProjectBackground.md): mô tả dự án

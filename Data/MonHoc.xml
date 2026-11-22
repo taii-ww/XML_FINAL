@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSachMonHoc>
+  <MonHoc>
+    <MaMonHoc>MH001</MaMonHoc>
+    <TenMonHoc>Lập trình Web</TenMonHoc>
+    <MoTa>Môn học về HTML, CSS, JavaScript</MoTa>
+  </MonHoc>
+  <MonHoc>
+    <MaMonHoc>MH002</MaMonHoc>
+    <TenMonHoc>Lập trình C#</TenMonHoc>
+    <MoTa>Môn học về ngôn ngữ C# và .NET</MoTa>
+  </MonHoc>
+  <MonHoc>
+    <MaMonHoc>MH003</MaMonHoc>
+    <TenMonHoc>Cơ sở dữ liệu</TenMonHoc>
+    <MoTa>Môn học về mô hình dữ liệu quan hệ và SQL</MoTa>
+  </MonHoc>
+  <MonHoc>
+    <MaMonHoc>MH004</MaMonHoc>
+    <TenMonHoc>Mạng máy tính</TenMonHoc>
+    <MoTa>Môn học về giao thức và kiến trúc mạng</MoTa>
+  </MonHoc>
+  <MonHoc>
+    <MaMonHoc>MH005</MaMonHoc>
+    <TenMonHoc>Hệ điều hành</TenMonHoc>
+    <MoTa>Môn học về tiến trình, bộ nhớ và quản lý tài nguyên</MoTa>
+  </MonHoc>
+</DanhSachMonHoc>
